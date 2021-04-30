@@ -1,4 +1,4 @@
-# User-Sign-up-and-Login
+# User-Sign-up-validation
 A small beginner project to practise Javascript DOM Elements
 
 While signing up username and email addresses have requirements to be fulfilled
